@@ -30,4 +30,5 @@ This project showcases the effectiveness of deep learning in enhancing traffic m
 Next Steps:
 Further refinement and deployment of the model for broader applications including smart city initiatives and traffic flow optimization.
 
+<img src="https://github.com/Shresth72/DermaDost/assets/97455610/0a562c6f-1fd1-4a06-b0d0-d211ae86a0b6" alt="mockup" width="900"/>
 
