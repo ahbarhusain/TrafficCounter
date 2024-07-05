@@ -1,5 +1,7 @@
 # Deep Learning for Traffic Counting
 
+<img src="https://github.com/ahbarhusain/TrafficCounter/blob/master/demo.png" alt="mockup" width="900"/>
+
 Challenges with Traditional Methods:
 Traditional methods using pneumatic tubes are prone to setup risks, wear-and-tear issues, and accuracy limitations. They are also not easily scalable for diverse traffic analysis needs.
 
@@ -31,5 +33,4 @@ Trained a model for 600 epochs with an 80:10:10 data split, achieving an overall
 Next Steps:
 Further refinement and deployment of the model for broader applications including smart city initiatives and traffic flow optimization.
 
-<img src="https://github.com/ahbarhusain/TrafficCounter/blob/master/demo.png" alt="mockup" width="900"/>
 
